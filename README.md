@@ -50,12 +50,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ## 🌐 Portfolio
 
-Portfolio Website: vedansh250.github.io/portfolio
+Portfolio Website: [vedansh250.github.io/portfolio](https://vedansh250.github.io/portfolio)
 
 ## 📫 Contact & Connect
 
 * Email: [vedanshpaunikar25@gmail.com](mailto:vedanshpaunikar25@gmail.com)
-* LinkedIn: linkedin.com/in/your-profile
-* GitHub: github.com/vedansh250
+* LinkedIn: [linkedin.com/vedansh-paunikar](https://www.linkedin.com/in/vedansh-paunikar-/)
+* GitHub: [github.com/vedansh250](https://github.com/vedansh250)
 
 ⭐ Always learning, building, and exploring modern cloud technologies.
