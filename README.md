@@ -1,61 +1,73 @@
-# Hi, I'm Vedansh Paunikar 👋
+# 👋 Hey, I'm Vedansh Paunikar
 
-### 🚀 DevOps & Cloud Engineer
+### 🚀 DevOps Engineer | Cloud Engineer | Infrastructure Automation Enthusiast
 
-Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices. Experienced with AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, Linux administration, and Infrastructure as Code (IaC). Focused on creating reliable, secure, and highly available cloud-native solutions.
+I design, automate, and optimize cloud-native infrastructure with a strong focus on scalability, reliability, and security.
 
-## 👨‍💻 About Me
+My expertise spans AWS, Kubernetes, Docker, Terraform, CI/CD, Linux, and observability tools, enabling organizations to deploy applications faster, manage infrastructure efficiently, and operate production environments with confidence.
 
-* DevOps & Cloud Engineering enthusiast
-* Strong foundation in Linux, AWS, Docker, Kubernetes, and Terraform
-* Interested in Cloud Architecture, Automation, CI/CD, and Site Reliability Engineering (SRE)
-* Continuously learning and building real-world cloud-native projects
-* Open to DevOps, Cloud Engineer, and Platform Engineer opportunities
+## ⚡ What I Do
 
-## 🛠️ Skills & Tools
+🔹 Build scalable cloud architectures on AWS
 
-**Cloud Platforms:** AWS (EC2, S3, VPC, IAM, Route 53, ELB)
+🔹 Automate infrastructure using Terraform and Infrastructure as Code (IaC)
 
-**Containerization & Orchestration:** Docker, Kubernetes
+🔹 Design and manage Kubernetes-based container platforms
 
-**Infrastructure as Code:** Terraform
+🔹 Create end-to-end CI/CD pipelines using GitHub Actions and Jenkins
 
-**CI/CD:** GitHub Actions, Jenkins
+🔹 Implement monitoring, logging, and observability solutions
 
-**Monitoring & Logging:** Prometheus, Grafana
+🔹 Optimize cloud resources for performance, security, and cost efficiency
 
-**Operating Systems:** Linux (RHEL, Ubuntu)
+## 🏗️ Core Technologies
 
-**Programming & Scripting:** Python, Bash
+Cloud • AWS • Kubernetes • Docker • Terraform
 
-**Version Control:** Git, GitHub
+CI/CD • GitHub Actions • Jenkins
 
-**Databases:** MySQL
+Monitoring • Prometheus • Grafana
 
-## 🌱 Currently Learning
+Operating Systems • Linux (RHEL / Ubuntu)
 
-* Advanced Kubernetes Administration
+Programming • Python • Bash
+
+Databases • MySQL
+
+## 🎯 Current Mission
+
+Building production-grade DevOps solutions while mastering:
+
+* Kubernetes Administration
+* AWS EKS
 * GitOps with ArgoCD
-* AWS EKS & Production Deployments
 * Site Reliability Engineering (SRE)
-* Advanced Terraform Modules
+* Advanced Terraform Architectures
 
-## 📂 Featured Projects
+## 🚀 Featured Work
 
-* **3-Tier AWS Web Application**
-* **Terraform AWS Infrastructure Automation**
-* **GitHub Actions CI/CD Workflows**
-* **Kubernetes Monitoring Stack**
-* **Cloud-Native DevOps Projects**
+☁️ 3-Tier AWS Web Application
 
-## 🌐 Portfolio
+☸️ Kubernetes Monitoring Stack
 
-Portfolio Website: [vedansh250.github.io/portfolio](https://vedansh250.github.io/portfolio)
+🏗️ Terraform Infrastructure Automation
 
-## 📫 Contact & Connect
+🔄 GitHub Actions CI/CD Pipelines
 
-* Email: [vedanshpaunikar25@gmail.com](mailto:vedanshpaunikar25@gmail.com)
-* LinkedIn: [linkedin.com/vedansh-paunikar](https://www.linkedin.com/in/vedansh-paunikar-/)
-* GitHub: [github.com/vedansh250](https://github.com/vedansh250)
+📊 Cloud-Native Observability Solutions
 
-⭐ Always learning, building, and exploring modern cloud technologies.
+## 🌍 Connect With Me
+
+Portfolio: vedansh250.github.io/portfolio
+
+GitHub: github.com/vedansh250
+
+LinkedIn: linkedin.com/in/vedansh-paunikar-
+
+Email: [vedanshpaunikar25@gmail.com](mailto:vedanshpaunikar25@gmail.com)
+
+---
+
+### 💡 Philosophy
+
+"Automate everything that can be automated. Build systems that scale. Engineer reliability by design."
