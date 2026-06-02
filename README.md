@@ -1,73 +1,132 @@
-# 👋 Hey, I'm Vedansh Paunikar
+# <p align="center">👋 Hey, I'm Vedansh Paunikar</p>
 
-### 🚀 DevOps Engineer | Cloud Engineer | Infrastructure Automation Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Infrastructure+Automation;Building+Scalable+Cloud+Solutions" />
+</p>
 
-I design, automate, and optimize cloud-native infrastructure with a strong focus on scalability, reliability, and security.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedansh250&theme=tokyonight&row=1&column=7" />
+</p>
 
-My expertise spans AWS, Kubernetes, Docker, Terraform, CI/CD, Linux, and observability tools, enabling organizations to deploy applications faster, manage infrastructure efficiently, and operate production environments with confidence.
-
-## ⚡ What I Do
-
-🔹 Build scalable cloud architectures on AWS
-
-🔹 Automate infrastructure using Terraform and Infrastructure as Code (IaC)
-
-🔹 Design and manage Kubernetes-based container platforms
-
-🔹 Create end-to-end CI/CD pipelines using GitHub Actions and Jenkins
-
-🔹 Implement monitoring, logging, and observability solutions
-
-🔹 Optimize cloud resources for performance, security, and cost efficiency
-
-## 🏗️ Core Technologies
-
-Cloud • AWS • Kubernetes • Docker • Terraform
-
-CI/CD • GitHub Actions • Jenkins
-
-Monitoring • Prometheus • Grafana
-
-Operating Systems • Linux (RHEL / Ubuntu)
-
-Programming • Python • Bash
-
-Databases • MySQL
-
-## 🎯 Current Mission
-
-Building production-grade DevOps solutions while mastering:
-
-* Kubernetes Administration
-* AWS EKS
-* GitOps with ArgoCD
-* Site Reliability Engineering (SRE)
-* Advanced Terraform Architectures
-
-## 🚀 Featured Work
-
-☁️ 3-Tier AWS Web Application
-
-☸️ Kubernetes Monitoring Stack
-
-🏗️ Terraform Infrastructure Automation
-
-🔄 GitHub Actions CI/CD Pipelines
-
-📊 Cloud-Native Observability Solutions
-
-## 🌍 Connect With Me
-
-Portfolio: vedansh250.github.io/portfolio
-
-GitHub: github.com/vedansh250
-
-LinkedIn: linkedin.com/in/vedansh-paunikar-
-
-Email: [vedanshpaunikar25@gmail.com](mailto:vedanshpaunikar25@gmail.com)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedansh250&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedansh250&theme=tokyonight"/>
+</p>
 
 ---
 
-### 💡 Philosophy
+# 🚀 About Me
 
-"Automate everything that can be automated. Build systems that scale. Engineer reliability by design."
+I am a **DevOps & Cloud Engineer** passionate about designing, automating, and managing modern cloud infrastructure.
+
+My focus is on building highly available, scalable, and secure cloud-native environments using AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, Linux, and Infrastructure as Code.
+
+I enjoy transforming manual processes into automated workflows, improving deployment reliability, and implementing best practices across the software delivery lifecycle.
+
+---
+
+# ⚡ Core Expertise
+
+* ☁️ Cloud Infrastructure & Architecture
+* ☸️ Kubernetes Administration
+* 🐳 Containerization & Orchestration
+* 🏗️ Infrastructure as Code (Terraform)
+* 🔄 CI/CD Pipeline Automation
+* 📊 Monitoring & Observability
+* 🔐 Cloud Security Best Practices
+* 🐧 Linux System Administration
+
+---
+
+# 🛠️ Tech Stack
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)
+
+### Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu\&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat\&logoColor=white)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash\&logoColor=white)
+
+---
+
+# 🎯 Currently Learning
+
+* Advanced Kubernetes Administration
+* AWS EKS Production Deployments
+* GitOps with ArgoCD
+* Site Reliability Engineering (SRE)
+* Advanced Terraform Modules
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ 3-Tier AWS Web Application
+
+Designed and deployed a scalable AWS-based multi-tier architecture using VPC, EC2, Load Balancer, and Auto Scaling.
+
+## 🏗️ Terraform Infrastructure Automation
+
+Automated AWS infrastructure provisioning with reusable Terraform modules and Infrastructure as Code best practices.
+
+## 🔄 GitHub Actions CI/CD Pipeline
+
+Built automated CI/CD workflows including testing, security scanning, Docker image creation, and deployment.
+
+## ☸️ Kubernetes Monitoring Stack
+
+Implemented monitoring and observability using Prometheus, Grafana, and Kubernetes.
+
+---
+
+# 📜 Certifications
+
+* Docker Certified Associate (DCA)
+* Kubernetes Administration
+* AWS Cloud & DevOps Certifications
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedansh250&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌐 Portfolio
+
+**Portfolio:** https://vedansh250.github.io/portfolio
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/vedansh250
+* LinkedIn: https://www.linkedin.com/in/vedansh-paunikar-/
+* Email: [vedanshpaunikar25@gmail.com](mailto:vedanshpaunikar25@gmail.com)
+
+---
+
+<p align="center">
+  <b>🚀 Automating Infrastructure | Scaling Applications | Building Cloud-Native Solutions</b>
+</p>
