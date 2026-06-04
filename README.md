@@ -4,12 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Infrastructure+Automation;Building+Scalable+Cloud+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedansh250&theme=tokyonight&row=1&column=7" />
-</p>
+
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedansh250&show_icons=true&theme=tokyonight"/>
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedansh250&theme=tokyonight"/>
 </p>
 
@@ -17,12 +15,7 @@
 
 # 🚀 About Me
 
-I am a **DevOps & Cloud Engineer** passionate about designing, automating, and managing modern cloud infrastructure.
-
-My focus is on building highly available, scalable, and secure cloud-native environments using AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, Linux, and Infrastructure as Code.
-
-I enjoy transforming manual processes into automated workflows, improving deployment reliability, and implementing best practices across the software delivery lifecycle.
-
+DevOps Engineer with hands-on experience in AWS Cloud, Docker, Kubernetes, Terraform, Linux, and CI/CD automation. Skilled in deploying scalable cloud infrastructure, managing Kubernetes clusters, and automating deployments using Jenkins and GitHub Actions. Strong understanding of Linux administration, networking, and cloud technologies with a focus on automation and scalable system design.
 ---
 
 # ⚡ Core Expertise
@@ -58,7 +51,7 @@ I enjoy transforming manual processes into automated workflows, improving deploy
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu\&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat\&logoColor=white)
+
 
 ### Programming
 
@@ -67,15 +60,6 @@ I enjoy transforming manual processes into automated workflows, improving deploy
 
 ---
 
-# 🎯 Currently Learning
-
-* Advanced Kubernetes Administration
-* AWS EKS Production Deployments
-* GitOps with ArgoCD
-* Site Reliability Engineering (SRE)
-* Advanced Terraform Modules
-
----
 
 # 🚀 Featured Projects
 
@@ -99,9 +83,10 @@ Implemented monitoring and observability using Prometheus, Grafana, and Kubernet
 
 # 📜 Certifications
 
-* Docker Certified Associate (DCA)
-* Kubernetes Administration
-* AWS Cloud & DevOps Certifications
+* AWS Certified Solutions Architect Associate
+* AWS Certified DevOps Engineer Professional  
+* Python Programming Certified
+* Professional Data Analytics Certification
 
 ---
 
