@@ -14,8 +14,9 @@
 ---
 
 # 🚀 About Me
-
-DevOps Engineer with hands-on experience in AWS Cloud, Docker, Kubernetes, Terraform, Linux, and CI/CD automation. Skilled in deploying scalable cloud infrastructure, managing Kubernetes clusters, and automating deployments using Jenkins and GitHub Actions. Strong understanding of Linux administration, networking, and cloud technologies with a focus on automation and scalable system design.
+<h4>
+  DevOps Engineer with hands-on experience in AWS Cloud, Docker, Kubernetes, Terraform, Linux, and CI/CD automation. Skilled in deploying scalable cloud infrastructure, managing Kubernetes clusters, and automating deployments using Jenkins and GitHub Actions. Strong   understanding of Linux administration, networking, and cloud technologies with a focus on automation and scalable system design.
+</h4>
 ---
 
 # ⚡ Core Expertise
